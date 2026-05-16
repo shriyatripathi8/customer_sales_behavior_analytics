@@ -1,5 +1,5 @@
 # customer_behavior_analysis
-Data analytics project showcasing customer behavior analysis using python , sql and power Bi
+Data analytics project showcasing customer behavior and sales analysis using python , sql and power Bi
 
 ## Overview
 This project delivers a complete data analytics workflow from raw data to business insight. It combines Python, SQL, and Power BI to analyze data, identify key patterns, and present clear recommendations.
